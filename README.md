@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm an engineer (albeit a creative engineer) who's primary hobbies are programming for Unity and DotNet.  I also have interests in SSI and blockchain.
+
+## Links
+[Linked In](https://www.linkedin.com/in/mattraffel/)  
+
+## Experiences
+Programming languages: C# • TypeScript • HTML • CSS • Rust
+
+Software: Visual Studio • Unity
+
 
 <!--
 **tatmanblue/tatmanblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@ I'm an engineer who's primary hobbies are programming for Unity and Dotnet.  I a
 ## Top Technologies
 Programming languages: C# • TypeScript • HTML • CSS • Rust
 
-Software: Visual Studio • Unity
+Software: Visual Studio/Jet Brains • Unity • Docker
 
 
 <!--

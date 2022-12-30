@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an engineer (albeit a creative engineer) who's primary hobbies are programming for Unity and DotNet.  I also have interests in SSI and blockchain.
+I'm an engineer who's primary hobbies are programming for Unity and Dotnet.  I also have interests in SSI and blockchain.
 
 ## Links
 [Linked In](https://www.linkedin.com/in/mattraffel/)  

@@ -8,6 +8,7 @@ Looking forward to hearing from you.
 
 ## Links
 [Linked In](https://www.linkedin.com/in/mattraffel/)  
+[YouTube](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ)  
 
 ## Top Technologies
 Programming languages: C# • TypeScript • HTML • CSS • Rust

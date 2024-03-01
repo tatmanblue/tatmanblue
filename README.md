@@ -11,7 +11,7 @@ Looking forward to hearing from you.
 [YouTube](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ)  
 
 ## Top Technologies
-Programming languages: C# • TypeScript • HTML • CSS • Rust
+Programming languages: C# • TypeScript • HTML • CSS • Rust • C/C++
 
 Software: Visual Studio/Jet Brains • Unity • Docker
 

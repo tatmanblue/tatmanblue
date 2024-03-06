@@ -7,7 +7,7 @@ Several of my biggest project repos are private due to the fact I am pulishing t
 - Unity projects shared with Max Capacity and Pitcairn Island
 - [TatmanGames](https://www.tatmangames.com/) and [personal websites](http://tatmanblue.com/)
   
-A lot of the public repos are archives of *very old projects* I no longer work on.  These are uploaded into github for archival purposes only.  
+A lot of the public repos are archives of *very old projects* I no longer work on.  These are uploaded into github for archival purposes only and are marked `archive`.  
 
 Looking forward to hearing from you.   In the mean time, check out my [YouTube Channel](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ) for video updates.
 

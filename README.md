@@ -8,7 +8,7 @@ A lot of my repos are private due to the fact I am pulishing the artifacts of th
 - [Max Capacity](https://github.com/tatmanblue/max-capacity.pub)
 - [Pitcairn Island](https://github.com/tatmanblue/Pitcairn-Island.pub)
 - Unity projects shared with Max Capacity and Pitcairn Island
-- TatmanGames and personal websites
+- [TatmanGames](https://www.tatmangames.com/) and [personal websites](http://tatmanblue.com/)
   
 A lot of the public repos are archives of *very old projects* I no longer work on.  These are uploaded into github for archival purposes only.  
 

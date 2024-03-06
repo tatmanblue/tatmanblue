@@ -4,7 +4,7 @@ I'm an engineer who's primary hobbies are programming for Unity and Dotnet.  I a
 Several of my biggest projects are private due to their commercial nature.  If you wish to discuss these, I am happy to share after the 
 appropriate NDA and non-compete agreements are completed.  In the mean time, check out my [YouTube Channel](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ) for video updates on one [exciting project](https://github.com/tatmanblue/max-capacity.pub) of mine.
 
-A lot of my repos are private due to the fact I am pulishing the artifacts of the code.  For those repos, there may also exit a public repo with information that can be made public.  I will enterain access to code and working documents in the private repos via NDA agreements on an as needed basis. In particular:  
+A lot of my repos are private due to the fact I am pulishing the artifacts of the code.  For those repos, a public repo with information that can be made public may also exist.  I will enterain access to code and working documents in the private repos via NDA agreements on an as needed basis. In particular:  
 - [Max Capacity](https://github.com/tatmanblue/max-capacity.pub)
 - [Pitcairn Island](https://github.com/tatmanblue/Pitcairn-Island.pub)
 - Unity projects shared with Max Capacity and Pitcairn Island

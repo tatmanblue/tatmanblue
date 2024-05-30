@@ -18,7 +18,7 @@ Looking forward to hearing from you.   In the mean time, check out my [YouTube C
 ## Top Technologies
 Programming languages: C# • TypeScript • HTML • CSS • Rust • C/C++
 
-Software: Visual Studio/Jet Brains • Unity • Docker
+Software: Visual Studio/Jet Brains • Unity • GitHub • Docker • Google Cloud
 
 
 <!--

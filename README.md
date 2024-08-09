@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm an engineer who's primary hobbies are programming for Unity and Dotnet.  I also have interests in SSI and blockchain.  
 
-Several of my most active projects are private due to the fact I am pulishing the artifacts of the code and are commerical in nature.  For those repos, a public repo with public information may also exist.  And, I will entertain access to the private repos via a signed NDA agreement on an as needed basis. In particular:  
+Several of my most active projects are private due to the fact I am publishing the artifacts and are commerical in nature.  For those repos, a public repo with public information may also exist.  And, I will entertain access to the private repos via a signed NDA agreement on an as needed basis. In particular:  
 - [Max Capacity](https://github.com/tatmanblue/max-capacity.pub)
 - [Pitcairn Island](https://github.com/tatmanblue/Pitcairn-Island.pub)
 - Unity projects shared with Max Capacity and Pitcairn Island

@@ -26,7 +26,7 @@ Programming languages: ![C#](https://img.shields.io/badge/-C%23-333333?style=fla
 ![Rust](https://img.shields.io/badge/-rust-333333?style=flat&logo=rust)
 
 Databases: ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) •
-![SQL](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) •
+![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=Microsoft_SQL_Server) •
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) •
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) •
 
@@ -35,7 +35,7 @@ Software: ![Jet Brains](https://img.shields.io/badge/-jet%20brains%20rider-33333
 ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker) • 
 ![Google Cloud](https://img.shields.io/badge/-google%20cloud-333333?style=flat&logo=google%20cloud) •
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) •
-![AI](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai)
+![AI](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai)
 
 
 <!--

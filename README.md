@@ -16,9 +16,23 @@ Looking forward to hearing from you.   In the mean time, check out my [YouTube C
 [YouTube](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ)  
 
 ## Top Technologies
-Programming languages: C# • TypeScript • HTML • CSS • Rust • C/C++
+Programming languages: ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) • 
+![C/C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) • 
+![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) •
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) •
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) • 
+![Rust](https://img.shields.io/badge/-rust-333333?style=flat&logo=rust)
 
-Software: Visual Studio/Jet Brains • Unity • GitHub • Docker • Google Cloud
+Databases: ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) •
+![SQL](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) •
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) •
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) •
+
+Software: ![Jet Brains](https://img.shields.io/badge/-jet%20brains%20rider-333333?style=flat&logo=jet%20brains%20rider) • 
+![GitHub](https://img.shields.io/badge/-github-333333?style=flat&logo=github) • 
+![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker) • 
+![Google Cloud](https://img.shields.io/badge/-google%20cloud-333333?style=flat&logo=google%20cloud) •
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) 
 
 
 <!--

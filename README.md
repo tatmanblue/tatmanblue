@@ -34,7 +34,8 @@ Software: ![Jet Brains](https://img.shields.io/badge/-jet%20brains%20rider-33333
 ![GitHub](https://img.shields.io/badge/-github-333333?style=flat&logo=github) • 
 ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker) • 
 ![Google Cloud](https://img.shields.io/badge/-google%20cloud-333333?style=flat&logo=google%20cloud) •
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) 
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) •
+![AI](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai)
 
 
 <!--

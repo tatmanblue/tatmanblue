@@ -12,7 +12,7 @@ A lot of the public repos are archives of *very old projects* I no longer work o
 Looking forward to hearing from you.   In the mean time, check out my [YouTube Channel](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ) for video updates.
 
 ## Links
-[Personal websites](http://tatmanblue.com/)    
+[Personal websites](http://mattraffel.com/)    
 [Blog](http://blog.tatmanblue.com/)    
 [Linked In](https://www.linkedin.com/in/mattraffel/)  
 [YouTube](https://www.youtube.com/channel/UCmvNJdvUxgwUWeNh4nLNoiQ)  
